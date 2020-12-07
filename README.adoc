@@ -1,0 +1,15 @@
+= Stackable Public Roadmap
+
+This repository contains the public roadmap for Stackable, a toolset/platform to add operations logic around open source software and take the headache out of using these tools in an enterprise setting.
+
+You can find the roadmap https://github.com/stackabletech/roadmap/projects/1[here].
+
+== Planning Horizon
+We don't usually plan farther ahead than the next two/three quarters, as anything beyond that is currently not realistically foreseeable.
+
+Anything that is not scheduled to be looked at in those quarters is gathered in the "Future" tab and will be sorted.
+
+== Planning Meetings
+We will hold quarterly roadmap meetings to allow anybody who is interested to chime in on what should be prioritized going forward.
+
+Please drop us a line at mailto:roadmap@stackable.de[roadmap@stackable.de] if you would like to be included in these meetings!
