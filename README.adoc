@@ -12,4 +12,6 @@ Anything that is not scheduled to be looked at in those quarters is gathered in 
 == Planning Meetings
 We will hold quarterly roadmap meetings to allow anybody who is interested to chime in on what should be prioritized going forward.
 
+The first meeting will be held on Feb 26th 2021 at 11:00 CET.
+
 Please drop us a line at mailto:roadmap@stackable.de[roadmap@stackable.de] if you would like to be included in these meetings!
