@@ -15,7 +15,7 @@ We will hold quarterly roadmap meetings to allow anybody who is interested to ch
 The first meeting will be held on Feb 26th 2021 from 11:00-12:00 CET.
 
 .The meeting will be held via Zoom:
-* https://www.google.com/url?q=https://zoom.us/j/93075327647?pwd%3DOWRtUWh0OW5MazJrekdkSGFFT3lnUT09&sa=D&source=calendar&ust=1608979232763000&usg=AOvVaw17D1V0Ih-4AbZmGbp8PWnf[Direct Zoom link]
+* https://zoom.us/j/97478687959[Direct Zoom link]
 * https://raw.githubusercontent.com/stackabletech/roadmap/master/roadmap-meeting-q2-2020.ics[ICS] to import into your calendar
 
 Please drop us a line at mailto:roadmap@stackable.de[roadmap@stackable.de] if you would like to receive regular reminders for these meetings.

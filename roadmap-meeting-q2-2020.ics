@@ -24,23 +24,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20201221T103435Z
+DTSTAMP:20210224T095011Z
 DTSTART;TZID=Europe/Berlin:20210226T110000
-DTEND;TZID=Europe/Berlin:20210226T120000
+DTEND;TZID=Europe/Berlin:20210226T130000
 SUMMARY:Stackable Roadmap Planning Q2
-UID:20201221T103435Z-93075327647@fe80:0:0:0:1420:71ff:fe38:8abbens5
+UID:20210224T095011Z-97478687959@fe80:0:0:0:1051:ceff:fefb:8d1dens5
 TZID:Europe/Berlin
 DESCRIPTION:Sönke Liebau is inviting you to a scheduled Zoom meeting.\n\n
- Join Zoom Meeting\nhttps://zoom.us/j/93075327647?pwd=OWRtUWh0OW5MazJrekd
- kSGFFT3lnUT09\n\nMeeting ID: 930 7532 7647\nPasscode: 974407\nOne tap mo
- bile\n+496938079883\,\,93075327647#\,\,\,\,*974407# Germany\n+4969505025
- 96\,\,93075327647#\,\,\,\,*974407# Germany\n\nDial by your location\n   
-      +49 69 3807 9883 Germany\n        +49 695 050 2596 Germany\n       
-  +49 69 7104 9922 Germany\n        +49 30 5679 5800 Germany\nMeeting ID:
-  930 7532 7647\nPasscode: 974407\nFind your local number: https://zoom.u
- s/u/ajSIvOpm2\n\n
-LOCATION:https://zoom.us/j/93075327647?pwd=OWRtUWh0OW5MazJrekdkSGFFT3lnUT
- 09
+ Join Zoom Meeting\nhttps://zoom.us/j/97478687959\n\nMeeting ID: 974 7868
+  7959\nOne tap mobile\n+496938079883\,\,97478687959# Germany\n+496950502
+ 596\,\,97478687959# Germany\n\nDial by your location\n        +49 69 380
+ 7 9883 Germany\n        +49 695 050 2596 Germany\n        +49 69 7104 99
+ 22 Germany\n        +49 30 5679 5800 Germany\nMeeting ID: 974 7868 7959\
+ nFind your local number: https://zoom.us/u/ach0N2AZYg\n\n
+LOCATION:https://zoom.us/j/97478687959
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
